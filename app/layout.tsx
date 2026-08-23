@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 import SmoothScroll from "@/components/SmoothScroll";
-
+import { Analytics } from "@vercel/analytics/next"
 export const metadata: Metadata = {
   title: "Oji Game Paglu — Professional Video Editor",
   description:

@@ -6,12 +6,12 @@ import { FiPlay, FiX, FiArrowUpRight } from "react-icons/fi";
 
 const projects = [
   {
-    title: "Cinematic Gaming Edit",
+    title: "Cinematic Edit",
     category: "Gaming",
     description:
       "High-energy gaming edit with cinematic transitions, sound design, motion graphics and retention-focused pacing.",
     style: "Cinematic • Fast Paced • Gaming",
-    tools: "Premiere Pro • After Effects • Photoshop",
+    tools: "Davinci Resolve ",
     video: "/videos/edit-1.mp4",
   },
   {
@@ -20,7 +20,7 @@ const projects = [
     description:
       "Long-form YouTube editing focused on storytelling, pacing, visual retention and engaging transitions.",
     style: "Storytelling • Dynamic • Retention",
-    tools: "Premiere Pro • After Effects",
+    tools: "Davinci Resolve",
     video: "/videos/edit-2.mp4",
   },
   {
@@ -38,7 +38,7 @@ const projects = [
     description:
       "Modern motion graphics combining typography, visual effects and smooth animation.",
     style: "Motion • Typography • Modern",
-    tools: "After Effects • Premiere Pro",
+    tools: "Davinci Resolve",
     video: "/videos/edit-4.mp4",
   },
 ];
