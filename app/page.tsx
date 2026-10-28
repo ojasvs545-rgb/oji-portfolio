@@ -4,7 +4,7 @@ import Intro from "@/components/Intro";
 import Navbar from "@/components/Navbar";
 import CustomCursor from "@/components/CustomCursor";
 import ScrollProgress from "@/components/ScrollProgress";
-
+import Particles from "@/components/Particles";
 import Hero from "@/components/Hero"; 
 import About from "@/components/About";
 import Stats from "@/components/Stats";
@@ -22,7 +22,8 @@ export default function Home() {
     <>
 
      <ScrollProgress />
-     
+     <Particles />
+
       <Intro />
 
       <CustomCursor />

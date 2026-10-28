@@ -15,12 +15,12 @@ const projects = [
     video: "/videos/edit-1.mp4",
   },
   {
-    title: "YouTube Story Edit",
+    title: "4D Intros and Outros",
     category: "YouTube",
     description:
-      "Long-form YouTube editing focused on storytelling, pacing, visual retention and engaging transitions.",
-    style: "Storytelling • Dynamic • Retention",
-    tools: "Davinci Resolve",
+      "Long-form YouTube editing focused on 4D Intro/Outro, pacing, visual retention and engaging transitions.",
+    style: "4D • Dynamic • Retention",
+    tools: " After Effects • Premiere Pro",
     video: "/videos/edit-2.mp4",
   },
   {
